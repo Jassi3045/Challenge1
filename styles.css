@@ -1,0 +1,153 @@
+body{
+  background-color: #0c122c;
+  width: 1440px;
+  height:700px;
+  position: relative;
+  font-family: 'Raleway', sans-serif;
+
+}
+.Designimg{
+  position: absolute;
+  bottom: 0;
+}
+.Designblock1{
+height: 150px;
+width:600px;
+background-color: #1d2c67;
+position:absolute;
+top: 230px;
+right: 200px;
+border-radius: 10px;
+font-size: 14px;
+
+}
+.DesignBlock2{
+  height: 180px;
+  width: 300px;
+  background-color: #1d2c67;
+  position: absolute;
+  left: 280px;
+  top: 200px;
+  border-top-right-radius: 100px;
+}
+.meter{
+  position: absolute;
+  top: 50%;
+  left: 12.5%;
+  width: 450px;
+  height: 15px;
+  background-color: #0c122c;
+  border-radius: 15px;
+}
+.submeter{
+  position: absolute;
+  width: 325px;
+  height: 15px;
+  background-color: #0c122c;
+  border-radius: 15px;
+  background-image: linear-gradient(to right,#ffa399,#ff4d97);
+}
+.write1{
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.write2{
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  right: 0;
+  margin-top: 5px;
+}
+.DB1{
+  color: white;
+  position: absolute;
+  top: 25px;
+  left: 12.5%;
+}
+.comment{
+  background-color: white;
+  height: 60px;
+  width: 160px;
+  position: absolute;
+  top: -40px;
+  border-radius: 8px;
+  right: 80px;
+}
+.comment1{
+  font-size: 25px;
+  font-weight: 700;
+  display: inline-block;
+  position: absolute;
+  left: 30px;
+
+
+}
+.comment2{
+  display: inline-block;
+  position: absolute;
+  font-weight: bolder;
+  right: 20px;
+  margin-top: 10px;
+  color: #848794;
+}
+.DB2{
+  position: relative;
+}
+.DB2img{
+  width: 120px;
+  position: absolute;
+  top: 40px;
+  left: 40px
+}
+.DB3{
+  position: absolute;
+  display: inline-block;
+  top: 100px;
+  left: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #0c122c;
+}
+.DB4{
+  position: absolute;
+  display: inline-block;
+  top: 100px;
+  left: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #0c122c;
+}
+.DB5{
+  position: absolute;
+  display: inline-block;
+  top: 100px;
+  left: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #0c122c;
+}
+.comment1p{
+  margin-top: 14px;
+
+}
+.circle{
+  position: absolute;
+  top: 1.5px;
+  right: 2px;
+  width: 11px;
+  height: 11px;
+  background-color: white;
+  background-size: 15px;
+  border-radius: 100%;
+}
+.triangle{
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  border-style: solid;
+  border-width: 45px;
+  border-color: white white transparent transparent;
+}
